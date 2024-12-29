@@ -1,0 +1,11 @@
+services:
+  ros:
+    image: my_ros_devcontainer
+    container_name: ros_frt_can_compose
+    network_mode: 'host'
+    volumes:
+      - type: bind
+        source: ./container-volume
+        target: /root
+    tty: true
+

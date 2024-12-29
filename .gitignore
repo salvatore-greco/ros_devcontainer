@@ -1,0 +1,9 @@
+container-volume/catkin_ws
+.cache
+.gnugpg
+.ros
+.ssh
+.vscode-server
+.bash_history
+.gitconfig
+.dotnet

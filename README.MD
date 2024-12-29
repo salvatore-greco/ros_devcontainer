@@ -1,5 +1,5 @@
 # Ros noetic development container
-Guida super veloce per tirare su un container docker per lo sviluppo. Consigliato collegarcisi con Visual Studio Code.\
+Guida super veloce per tirare su un container docker per lo sviluppo. Consigliato collegarcisi con Visual Studio Code.
 ## Build dell'immagine
 `docker build -t my_ros_devcontainer .`
 ## Tirare su il container

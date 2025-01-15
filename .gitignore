@@ -1,4 +1,5 @@
 container-volume/catkin_ws
+container-volume/ssh/*
 .cache
 .gnugpg
 .ros
